@@ -6,3 +6,9 @@
 .navbar {
  @apply  bg-green-900 text-neutral-200 h-6 rounded-t-xl    
 }
+
+
+body {
+    background-color: grey;
+}
+
